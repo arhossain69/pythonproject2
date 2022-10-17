@@ -1,0 +1,75 @@
+1665386343846	geckodriver	INFO	Listening on 127.0.0.1:49231
+1665386344311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49232" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lw/nrjfbp4149gg_26v_w2t55p00000gn/T/rust_mozprofileHKUBaJ"
+1665386344852	Marionette	INFO	Marionette enabled
+1665386344872	Marionette	INFO	Listening on port 49241
+2022-10-10 00:19:04.883 plugin-container[1061:18366] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:19:04.883 plugin-container[1061:18366] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 00:19:04.928 plugin-container[1061:18366] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:19:04.928 plugin-container[1061:18366] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 00:19:04.929 plugin-container[1061:18418] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:19:04.929 plugin-container[1061:18418] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49241
+WebDriver BiDi listening on ws://127.0.0.1:49232
+1665386345055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lw/nrjfbp4149gg_26v_w2t55p00000gn/T/rust_mozprofileHKUBaJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49232/devtools/browser/ec0b53d7-3652-4772-8158-03a2af6dd609
+1665386813516	geckodriver	INFO	Listening on 127.0.0.1:49408
+1665386814034	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49409" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lw/nrjfbp4149gg_26v_w2t55p00000gn/T/rust_mozprofileM0kKmN"
+2022-10-10 00:26:54.285 plugin-container[1140:23058] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:26:54.285 plugin-container[1140:23058] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665386814288	Marionette	INFO	Marionette enabled
+1665386814305	Marionette	INFO	Listening on port 49416
+2022-10-10 00:26:54.307 plugin-container[1140:23058] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:26:54.307 plugin-container[1140:23058] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 00:26:54.307 plugin-container[1140:23064] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:26:54.307 plugin-container[1140:23064] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49416
+WebDriver BiDi listening on ws://127.0.0.1:49409
+1665386814396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lw/nrjfbp4149gg_26v_w2t55p00000gn/T/rust_mozprofileM0kKmN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49409/devtools/browser/a120b94b-2ee3-40a8-9699-2490ef273d24
+1665387016313	geckodriver	INFO	Listening on 127.0.0.1:49546
+1665387016831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49547" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lw/nrjfbp4149gg_26v_w2t55p00000gn/T/rust_mozprofile1zokcU"
+2022-10-10 00:30:17.086 plugin-container[1172:24625] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:30:17.086 plugin-container[1172:24625] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665387017088	Marionette	INFO	Marionette enabled
+1665387017103	Marionette	INFO	Listening on port 49554
+2022-10-10 00:30:17.104 plugin-container[1172:24625] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:30:17.104 plugin-container[1172:24625] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 00:30:17.105 plugin-container[1172:24627] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:30:17.105 plugin-container[1172:24627] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:49547
+Read port: 49554
+1665387017199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lw/nrjfbp4149gg_26v_w2t55p00000gn/T/rust_mozprofile1zokcU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49547/devtools/browser/44af6612-f11b-4307-8227-6dc93cdd0858
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1665387502992	geckodriver	INFO	Listening on 127.0.0.1:49784
+1665387503507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49785" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lw/nrjfbp4149gg_26v_w2t55p00000gn/T/rust_mozprofiletYu2MX"
+1665387503810	Marionette	INFO	Marionette enabled
+2022-10-10 00:38:23.833 plugin-container[1218:28358] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:38:23.833 plugin-container[1218:28358] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 00:38:23.849 plugin-container[1218:28358] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:38:23.849 plugin-container[1218:28358] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 00:38:23.850 plugin-container[1218:28397] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 00:38:23.850 plugin-container[1218:28397] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665387503864	Marionette	INFO	Listening on port 49792
+Read port: 49792
+WebDriver BiDi listening on ws://127.0.0.1:49785
+1665387503953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lw/nrjfbp4149gg_26v_w2t55p00000gn/T/rust_mozprofiletYu2MX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49785/devtools/browser/5d7c7b65-6c0b-4ecd-aef4-a8b8ad8e594c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1665387518139	Marionette	INFO	Stopped listening on port 49792
+1665390083602	Marionette	INFO	Stopped listening on port 49241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665390092340	Marionette	INFO	Stopped listening on port 49554
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665390104884	Marionette	INFO	Stopped listening on port 49416
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
